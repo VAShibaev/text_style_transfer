@@ -1,3 +1,5 @@
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/style-transfer-for-texts-to-err-is-human-but/text-style-transfer-on-yelp-review-dataset)](https://paperswithcode.com/sota/text-style-transfer-on-yelp-review-dataset?p=style-transfer-for-texts-to-err-is-human-but)
+
 # text style transfer
 It's a implementation of text style transfer models described in
 
